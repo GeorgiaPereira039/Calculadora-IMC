@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Comic Neue, cursive;
+    animation: changeBackgroundColor 5s infinite;
+}
+
+.calc {
+    text-align:center;
+} 
+
+.container {
+    width: 45vw;
+    height: 38vw;
+    margin: 15px 50px;
+    background-color: rgb(166, 245, 245);
+    padding: 20px;
+    border-radius: 20px;
+    position: absolute;
+    left: 25%;
+    border:1px solid rgb(58, 51, 68);
+}
+
+form input, form label, form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    font-family: Comic Neue, cursive;
+    font-size:medium;
+}
+
+form input {
+    font-size:  24px;
+    height: 40px;
+    padding: 0 20px;
+    margin: 0px 0px;
+    border-radius: 10px;
+}
+
+
+form input:focus {
+    outline: 1px solid rgb(176, 154, 235);
+}
+
+form button {
+    border-radius: 8px;
+    background: rgb(176, 154, 235);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: Comic Neue, cursive;
+    height: 40px;
+    cursor:pointer;
+    margin-top: 30px;
+}
+
+form button:active {
+    background: rgb(72, 167, 167);
+}
+
+.resultado {
+    margin: 50%;
+    margin-top: 0;
+} 
+
+.paragrafo-resultado, .erro {
+    background: rgb(108, 223, 114);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.erro {
+    background: rgb(192, 41, 41);
+    border-radius: 10px; 
+}
+
+.valor {
+    font-size: x-large;
+    position: absolute;
+    right: 40%;
+    top: 0px;
+}
+
+.imc {
+    font-size: x-large;
+    position: absolute;
+    top: 0px;
+}
+
+
+.tabela {
+    width: 100%;
+    margin: 15px;    
+} 
+
+/**************************************************************** */
+@keyframes changeBackgroundColor{
+
+    0% { background-color:rgb(166, 245, 245);}
+    50% { background-color:rgb(168, 248, 235);}
+    75% {background-color: rgb(188, 234, 248);}
+    100% {background-color:rgb(166, 245, 245);}
+}
+
+
+@media screen and ( max-width: 100vw) and (min-height: 100vw) {
+
+* {
+    margin: 0px auto;
+}
+
+.container {
+    background:0;
+    width: 100%; 
+    left: -12%;
+    padding: 3%;
+}
+
+.valor {
+    font-size: x-large;
+    margin: -2% -5%;
+}
+
+.imc {
+    font-size: x-large;
+    margin: -2% 5%;
+}
+
+.tabela {
+    margin: 4% -2%;
+}};
