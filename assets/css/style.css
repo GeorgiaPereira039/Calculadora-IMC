@@ -1,10 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+
 * {
     box-sizing: border-box;
+    font-family: 'Comic Neue', cursive;
 }
 
 body {
-    font-family: Comic Neue, cursive;
+    font-family: 'Comic Neue', cursive;
     animation: changeBackgroundColor 5s infinite;
+    font-size: x-large;
 }
 
 .calc {
@@ -27,8 +31,8 @@ form input, form label, form button {
     display: block;
     width: 100%;
     margin-bottom: 10px;
-    font-family: Comic Neue, cursive;
-    font-size:medium;
+    font-family: 'Comic Neue', cursive;
+    font-size:large;
 }
 
 form input {
@@ -49,10 +53,10 @@ form button {
     background: rgb(176, 154, 235);
     color: rgb(0, 0, 0);
     font-size: 20px;
-    font-family: Comic Neue, cursive;
+    font-family: 'Comic Neue', cursive;
     height: 40px;
     cursor:pointer;
-    margin-top: 30px;
+    margin-top: 15px;
 }
 
 form button:active {
@@ -68,6 +72,7 @@ form button:active {
     background: rgb(108, 223, 114);
     padding: 10px 20px;
     border-radius: 10px;
+    font-size: large;
 }
 
 .erro {
@@ -115,6 +120,7 @@ form button:active {
     width: 100%; 
     left: -12%;
     padding: 3%;
+    border:none;
 }
 
 .valor {
