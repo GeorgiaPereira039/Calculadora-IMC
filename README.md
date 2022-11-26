@@ -1,17 +1,19 @@
-![passion-fruit](C:\Program Files\Typora\assets\images\passion-fruit.png)
-![dragon-fruit](C:\Program Files\Typora\assets\images\dragon-fruit.png) 
-![papaya](C:\Program Files\Typora\assets\images\papaya.png) 
-![kiwi](C:\Program Files\Typora\assets\images\kiwi.png)
-![pan](C:\Program Files\Typora\assets\images\pan.png)
-![vegetables](C:\Program Files\Typora\assets\images\vegetables.png) 
-![watermelon](C:\Program Files\Typora\assets\images\watermelon.png) 
-![water](C:\Program Files\Typora\assets\images\water.png) 
-![banana](C:\Program Files\Typora\assets\images\banana.png)
-![passion-fruit](C:\Program Files\Typora\assets\images\passion-fruit.png)
-![dragon-fruit](C:\Program Files\Typora\assets\images\dragon-fruit.png) 
-![papaya](C:\Program Files\Typora\assets\images\papaya.png) 
+![passion-fruit](assets/images/passion-fruit.png)
+![dragon-fruit](assets/images/dragon-fruit.png) 
+![papaya](assets/images/papaya.png) 
+![kiwi](assets/images/kiwi.png)
+![pan](assets/images/pan.png)
+![vegetables](assets/images/vegetables.png) 
+![watermelon](assets/images/watermelon.png) 
+![water](assets/images/water.png) 
+![banana](assets/images/banana.png)
+![passion-fruit](assets/images/passion-fruit.png)
+![dragon-fruit](assets/images/dragon-fruit.png) 
+![papaya](assets/images/papaya.png) 
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
+
+Clique [Aqui](https://georgiapereira039.github.io/CalculadoraIMC/imc.html) para ver como está o projeto! 😄
 
 Projeto para fins educacionais de uma calculadora de IMC com foco na linguagem em JavaScript proposto pela Udemy. 
 
@@ -23,7 +25,7 @@ Com o conhecimento que já possuo, pude também focar um pouco na parte de front
 
 Todo conteúdo feito, foi com base do curso de [JavaScript e TypeScript do básico ao avançado](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/). Caso queira conhecer acesse o link para acesso as aulas.  
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
 
 Fontes usadas:👇👇
 
