@@ -1,16 +1,15 @@
-![passion-fruit](C:\Program Files\Typora\assets\images\passion-fruit.png)
-![dragon-fruit](C:\Program Files\Typora\assets\images\dragon-fruit.png) 
-![papaya](C:\Program Files\Typora\assets\images\papaya.png) 
-![kiwi](C:\Program Files\Typora\assets\images\kiwi.png)
-![pan](C:\Program Files\Typora\assets\images\pan.png)
-![vegetables](C:\Program Files\Typora\assets\images\vegetables.png) 
-![watermelon](C:\Program Files\Typora\assets\images\watermelon.png) 
-![water](C:\Program Files\Typora\assets\images\water.png) 
-![banana](C:\Program Files\Typora\assets\images\banana.png)
-![passion-fruit](C:\Program Files\Typora\assets\images\passion-fruit.png)
-![dragon-fruit](C:\Program Files\Typora\assets\images\dragon-fruit.png) 
-![papaya](C:\Program Files\Typora\assets\images\papaya.png) 
-
+![passion-fruit](assets/images/passion-fruit.png)
+![dragon-fruit](assets/images/dragon-fruit.png) 
+![papaya](assets/images/papaya.png) 
+![kiwi](assets/images/kiwi.png)
+![pan](assets/images/pan.png)
+![vegetables](assets/images/vegetables.png) 
+![watermelon](assets/images/watermelon.png) 
+![water](assets/images/water.png) 
+![banana](assets/images/banana.png)
+![passion-fruit](assets/images/passion-fruit.png)
+![dragon-fruit](assets/images/dragon-fruit.png) 
+![papaya](assets/images/papaya.png) 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Projeto para fins educacionais de uma calculadora de IMC com foco na linguagem em JavaScript proposto pela Udemy. 
