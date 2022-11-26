@@ -13,7 +13,7 @@
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-Clique [Aqui](https://georgiapereira039.github.io/Calculadora-imc/imc.html) para ver como está o projeto! 😄
+Clique [Aqui](https://georgiapereira039.github.io/CalculadoraIMC/imc.html) para ver como está o projeto! 😄
 
 Projeto para fins educacionais de uma calculadora de IMC com foco na linguagem em JavaScript proposto pela Udemy. 
 
