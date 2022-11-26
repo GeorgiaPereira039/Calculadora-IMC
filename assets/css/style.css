@@ -115,6 +115,7 @@ form button:active {
     width: 100%; 
     left: -12%;
     padding: 3%;
+    border: none;
 }
 
 .valor {
